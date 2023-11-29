@@ -3,8 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rprusacki1" alt="rprusacki1" /></a> </p>
 
-- 🔭 I’m currently pursuing **a Bachelor's in Computer Science**
-
+- 🔭 I’m currently pursuing **a Bachelor's in Computer Science on a Software Engineering Track**
+- ✒️ In addition, I am obtaining a  **a minor in Cognitive Science**
 - 📫 How to reach me **rachel.prusacki@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
